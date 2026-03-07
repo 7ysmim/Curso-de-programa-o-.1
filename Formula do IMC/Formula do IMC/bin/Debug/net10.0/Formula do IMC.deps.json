@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Formula do IMC/1.0.0": {
+        "runtime": {
+          "Formula do IMC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Formula do IMC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

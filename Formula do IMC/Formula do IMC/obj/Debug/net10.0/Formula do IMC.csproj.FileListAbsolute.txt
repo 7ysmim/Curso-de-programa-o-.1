@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\bin\Debug\net10.0\Formula do IMC.exe
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\bin\Debug\net10.0\Formula do IMC.deps.json
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\bin\Debug\net10.0\Formula do IMC.runtimeconfig.json
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\bin\Debug\net10.0\Formula do IMC.dll
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\bin\Debug\net10.0\Formula do IMC.pdb
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\obj\Debug\net10.0\Formula do IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\obj\Debug\net10.0\Formula do IMC.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\obj\Debug\net10.0\Formula do IMC.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\obj\Debug\net10.0\Formula do IMC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\obj\Debug\net10.0\Formula do IMC.dll
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\obj\Debug\net10.0\refint\Formula do IMC.dll
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\obj\Debug\net10.0\Formula do IMC.pdb
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\obj\Debug\net10.0\Formula do IMC.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Formula do IMC\Formula do IMC\obj\Debug\net10.0\ref\Formula do IMC.dll
